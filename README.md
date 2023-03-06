@@ -63,6 +63,8 @@
 
 [Smart manhole cover concept detects gas levels and provides reserve power](https://www.ubergizmo.com/2012/03/smart-manhole-cover-concept-detects-gas-levels-and-provides-reserve-power/)
 
+[밀폐공간 질식재해예방 안전작업 가이드[문서]](https://www.seumedu.kr/data/safe/%EB%B0%80%ED%8F%90%EA%B3%B5%EA%B0%84%20%EC%A7%88%EC%8B%9D%EC%9E%AC%ED%95%B4%EC%98%88%EB%B0%A9%20%EC%95%88%EC%A0%84%EC%9E%91%EC%97%85%20%EA%B0%80%EC%9D%B4%EB%93%9C.pdf)
+
 ## ChatGPT 정보
 
 ### 스마트 맨홀 한국 제품은?
